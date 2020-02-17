@@ -17,6 +17,7 @@ namespace Addition_task
             int operand2 = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine();
+
             operand1.CollectsMethod(operand2);
 
             Console.ReadKey();
